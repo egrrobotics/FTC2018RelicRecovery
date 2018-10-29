@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/howard/Documents/EGRMS_FTC/Android_Studio/FTC2018RelicRecovery/FtcRobotController/build/intermediates/res/merged/debug/drawable/icon_robotcontroller.png",
+        "source": "/Users/howard/.android/build-cache/651f90954361582b69090c9d564651bbfc7d0cd3/output/res/drawable/icon_robotcontroller.png"
+    },
+    {
+        "merged": "/Users/howard/Documents/EGRMS_FTC/Android_Studio/FTC2018RelicRecovery/FtcRobotController/build/intermediates/res/merged/debug/drawable/black_border.xml",
+        "source": "/Users/howard/.android/build-cache/4c0df680a614dcf73f7af0bdc45f8d246a562f84/output/res/drawable/black_border.xml"
+    },
+    {
+        "merged": "/Users/howard/Documents/EGRMS_FTC/Android_Studio/FTC2018RelicRecovery/FtcRobotController/build/intermediates/res/merged/debug/drawable/button_shape.xml",
+        "source": "/Users/howard/.android/build-cache/a5e4d4f4f63e29d4d83242fbee2c4dd49be94089/output/res/drawable/button_shape.xml"
+    },
+    {
+        "merged": "/Users/howard/Documents/EGRMS_FTC/Android_Studio/FTC2018RelicRecovery/FtcRobotController/build/intermediates/res/merged/debug/drawable/feedback_shape_orange.xml",
+        "source": "/Users/howard/.android/build-cache/3f2c5f378411b0702864d1be5bffe71f1cb9e694/output/res/drawable/feedback_shape_orange.xml"
+    },
+    {
+        "merged": "/Users/howard/Documents/EGRMS_FTC/Android_Studio/FTC2018RelicRecovery/FtcRobotController/build/intermediates/res/merged/debug/drawable/icon_menu.png",
+        "source": "/Users/howard/.android/build-cache/651f90954361582b69090c9d564651bbfc7d0cd3/output/res/drawable/icon_menu.png"
+    }
+]

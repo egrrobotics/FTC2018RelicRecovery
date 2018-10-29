@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/howard/.android/build-cache/f5f89f06235974e457eb8075855dec5cbea50e30/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9dafed45e330aec14abcce05bdb7bbdb2a2d7092">
+        <dex dex="/Users/howard/Documents/EGRMS_FTC/Android_Studio/FTC2018RelicRecovery/TeamCode/build/intermediates/pre-dexed/debug/classes_e1b9c4609b81bdaf39d30f3f2bc9efb63f4536ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/howard/.android/build-cache/3f2c5f378411b0702864d1be5bffe71f1cb9e694/output/jars/libs/gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e118dd0900e4a18fb928ebb8df2d9fbda78f2b5d">
+        <dex dex="/Users/howard/Documents/EGRMS_FTC/Android_Studio/FTC2018RelicRecovery/TeamCode/build/intermediates/pre-dexed/debug/gson-2.8.0_1f88bce25a0629597becb62a294eb3bf42324441.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/howard/.android/build-cache/4c0df680a614dcf73f7af0bdc45f8d246a562f84/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="75bdc736b17d8f39d246beac357cb3a0e007fcfa">
+        <dex dex="/Users/howard/Documents/EGRMS_FTC/Android_Studio/FTC2018RelicRecovery/TeamCode/build/intermediates/pre-dexed/debug/classes_57f73eea85defb2147e326d24b9b79ceabfc56df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/howard/.android/build-cache/2f3fbbf3623ebdc13541d24f927e8e4893ea97bd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9403be210676ed196cdcc64c7391b9ae2361c174">
+        <dex dex="/Users/howard/Documents/EGRMS_FTC/Android_Studio/FTC2018RelicRecovery/TeamCode/build/intermediates/pre-dexed/debug/classes_0529bdc3fa56fdcfa48e0ef070011833e0ab5ff9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/howard/.android/build-cache/a5e4d4f4f63e29d4d83242fbee2c4dd49be94089/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c2abba0621a5319232804767218216568263aa37">
+        <dex dex="/Users/howard/Documents/EGRMS_FTC/Android_Studio/FTC2018RelicRecovery/TeamCode/build/intermediates/pre-dexed/debug/classes_deaf815fe2ea230d256f9d96456dd77fd65da7f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/howard/.android/build-cache/3f2c5f378411b0702864d1be5bffe71f1cb9e694/output/jars/libs/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a214d3b1b12e72f4fb0d5d5d8d0ec43c96de2b5">
+        <dex dex="/Users/howard/Documents/EGRMS_FTC/Android_Studio/FTC2018RelicRecovery/TeamCode/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_294741495dc18220fea159a4b639b6375eaa991e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/howard/.android/build-cache/3f2c5f378411b0702864d1be5bffe71f1cb9e694/output/jars/libs/javac.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c576121aac49e547b39aedfb1daa29782db4166c">
+        <dex dex="/Users/howard/Documents/EGRMS_FTC/Android_Studio/FTC2018RelicRecovery/TeamCode/build/intermediates/pre-dexed/debug/javac_201eb1c0aa1309329755e7269bee4d04794a7078.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/howard/.android/build-cache/651f90954361582b69090c9d564651bbfc7d0cd3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9da82f9829b6cafb8407989729481220ca06c905">
+        <dex dex="/Users/howard/Documents/EGRMS_FTC/Android_Studio/FTC2018RelicRecovery/TeamCode/build/intermediates/pre-dexed/debug/classes_739b6ac34dda386968cfc3432ea8ce643c77f182.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/howard/.android/build-cache/9f794a93efe09f8c1e183a49f156df076b41df01/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="96cbbea552fe9bf3c56540c7e4912eb5cf72301e">
+        <dex dex="/Users/howard/Documents/EGRMS_FTC/Android_Studio/FTC2018RelicRecovery/TeamCode/build/intermediates/pre-dexed/debug/classes_8eec7d10a7e460566be040baacedb1ce0767e4f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/howard/Documents/EGRMS_FTC/Android_Studio/FTC2018RelicRecovery/FtcRobotController/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6da5b77184f4cd04d2914145f7f5af5a7ec64e4c">
+        <dex dex="/Users/howard/Documents/EGRMS_FTC/Android_Studio/FTC2018RelicRecovery/TeamCode/build/intermediates/pre-dexed/debug/classes_e57790f37d101bb073680c2d629df2ce971f2efd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/howard/.android/build-cache/3f2c5f378411b0702864d1be5bffe71f1cb9e694/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e259d01a014f392930432e85cc1ac9bf807a92df">
+        <dex dex="/Users/howard/Documents/EGRMS_FTC/Android_Studio/FTC2018RelicRecovery/TeamCode/build/intermediates/pre-dexed/debug/classes_dc1634470b2a6963531aa5fc0137be3ea63ac2d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/howard/.android/build-cache/3f2c5f378411b0702864d1be5bffe71f1cb9e694/output/jars/libs/Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="91b46366eb9f8203073ee2935087c097c888c0ed">
+        <dex dex="/Users/howard/Documents/EGRMS_FTC/Android_Studio/FTC2018RelicRecovery/TeamCode/build/intermediates/pre-dexed/debug/Vuforia_a302348636ed35ec32253e513fa4f8e04a7db1bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/howard/.android/build-cache/3f2c5f378411b0702864d1be5bffe71f1cb9e694/output/jars/libs/gson-extras-0.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b30c2655badcc7ce97f84e49f777b7dd154bad57">
+        <dex dex="/Users/howard/Documents/EGRMS_FTC/Android_Studio/FTC2018RelicRecovery/TeamCode/build/intermediates/pre-dexed/debug/gson-extras-0.2.1_b2042e0c4cfad1b3aa62ad680c472c5c23aaa7b5.jar" />
+    </item>
+
+</items>

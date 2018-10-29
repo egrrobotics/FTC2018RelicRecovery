@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/howard/Documents/EGRMS_FTC/Android_Studio/FTC2018RelicRecovery/FtcRobotController/build/intermediates/res/merged/debug/xml/squarebot.xml",
+        "source": "/Users/howard/.android/build-cache/a5e4d4f4f63e29d4d83242fbee2c4dd49be94089/output/res/xml/squarebot.xml"
+    },
+    {
+        "merged": "/Users/howard/Documents/EGRMS_FTC/Android_Studio/FTC2018RelicRecovery/FtcRobotController/build/intermediates/res/merged/debug/xml/k9legacybot.xml",
+        "source": "/Users/howard/.android/build-cache/a5e4d4f4f63e29d4d83242fbee2c4dd49be94089/output/res/xml/k9legacybot.xml"
+    },
+    {
+        "merged": "/Users/howard/Documents/EGRMS_FTC/Android_Studio/FTC2018RelicRecovery/FtcRobotController/build/intermediates/res/merged/debug/xml/app_settings.xml",
+        "source": "/Users/howard/Documents/EGRMS_FTC/Android_Studio/FTC2018RelicRecovery/FtcRobotController/src/main/res/xml/app_settings.xml"
+    },
+    {
+        "merged": "/Users/howard/Documents/EGRMS_FTC/Android_Studio/FTC2018RelicRecovery/FtcRobotController/build/intermediates/res/merged/debug/xml/pushbotsens.xml",
+        "source": "/Users/howard/.android/build-cache/a5e4d4f4f63e29d4d83242fbee2c4dd49be94089/output/res/xml/pushbotsens.xml"
+    },
+    {
+        "merged": "/Users/howard/Documents/EGRMS_FTC/Android_Studio/FTC2018RelicRecovery/FtcRobotController/build/intermediates/res/merged/debug/xml/rev_scoot.xml",
+        "source": "/Users/howard/.android/build-cache/a5e4d4f4f63e29d4d83242fbee2c4dd49be94089/output/res/xml/rev_scoot.xml"
+    },
+    {
+        "merged": "/Users/howard/Documents/EGRMS_FTC/Android_Studio/FTC2018RelicRecovery/FtcRobotController/build/intermediates/res/merged/debug/xml/pushbot.xml",
+        "source": "/Users/howard/.android/build-cache/a5e4d4f4f63e29d4d83242fbee2c4dd49be94089/output/res/xml/pushbot.xml"
+    },
+    {
+        "merged": "/Users/howard/Documents/EGRMS_FTC/Android_Studio/FTC2018RelicRecovery/FtcRobotController/build/intermediates/res/merged/debug/xml/k9usbbot.xml",
+        "source": "/Users/howard/.android/build-cache/a5e4d4f4f63e29d4d83242fbee2c4dd49be94089/output/res/xml/k9usbbot.xml"
+    },
+    {
+        "merged": "/Users/howard/Documents/EGRMS_FTC/Android_Studio/FTC2018RelicRecovery/FtcRobotController/build/intermediates/res/merged/debug/xml/maxmodules.xml",
+        "source": "/Users/howard/.android/build-cache/a5e4d4f4f63e29d4d83242fbee2c4dd49be94089/output/res/xml/maxmodules.xml"
+    },
+    {
+        "merged": "/Users/howard/Documents/EGRMS_FTC/Android_Studio/FTC2018RelicRecovery/FtcRobotController/build/intermediates/res/merged/debug/xml/advanced_rc_settings.xml",
+        "source": "/Users/howard/.android/build-cache/a5e4d4f4f63e29d4d83242fbee2c4dd49be94089/output/res/xml/advanced_rc_settings.xml"
+    },
+    {
+        "merged": "/Users/howard/Documents/EGRMS_FTC/Android_Studio/FTC2018RelicRecovery/FtcRobotController/build/intermediates/res/merged/debug/xml/device_filter.xml",
+        "source": "/Users/howard/Documents/EGRMS_FTC/Android_Studio/FTC2018RelicRecovery/FtcRobotController/src/main/res/xml/device_filter.xml"
+    }
+]
